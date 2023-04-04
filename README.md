@@ -50,11 +50,11 @@ I also created functions, thanks to which I can to use this functionality on sin
 ## Next goals 🏆⌛
 
 * Train new model based on image with class like: 
-- Team 1
-- Team 2
-- Referees
-- Ball
-- Goalkeeper
+  - Team 1
+  - Team 2
+  - Referees
+  - Ball
+  - Goalkeeper
 
 *  Mapping player position to 2D pitch image
 
