@@ -34,16 +34,17 @@ Training results you can find here :
 
 ** This model will be changed ** 
 
-Thanks to this model I can detected players on the pitch : 
+Testing results you can find here : 
 
-![image](https://user-images.githubusercontent.com/122997699/229868941-d5b1005b-6cca-406a-872c-b4524a144d25.png)
+[Football_Objects_Detections_Testingl](https://github.com/DenyT17/Football_Object_Detection/blob/main/Football_Object_Detection_Testing.ipynb)
 
+In this part I added funcionality like: 
+- Detecting players, ball, referees and goalkeeper,
+- Identification of the player in possession of the species,
+- Tracking players and ball.
 
-In next step I tracked each player on pitch. 
-![image](https://user-images.githubusercontent.com/122997699/229868702-4f7198f5-9355-4717-9ecf-8a6df390d40d.png)
+I also created functions, thanks to which I can to use this functionality on single image or video.
 
-But I decided to create new model, thanks to which I will detecting player in both team.
-If result will not be satisfying, I will try to use K-means to detecting jersey colors.
 
 
 ## Next goals 🏆⌛
