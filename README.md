@@ -36,7 +36,7 @@ Training results you can find here :
 
 Testing results you can find here : 
 
-[Football_Objects_Detections_Testingl](https://github.com/DenyT17/Football_Object_Detection/blob/main/Football_Object_Detection_Testing.ipynb)
+[Football_Objects_Detections_Testing](https://github.com/DenyT17/Football_Object_Detection/blob/main/Football_Object_Detection_Testing.ipynb)
 
 In this part I added funcionality like: 
 - Detecting players, ball, referees and goalkeeper,
