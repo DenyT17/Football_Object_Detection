@@ -45,6 +45,9 @@ In this part I added funcionality like:
 
 I also created functions, thanks to which I can to use this functionality on single image or video.
 
+## Currently working on 📝
+
+Mapping player position to 2D pitch image
 
 
 ## Next goals 🏆⌛
