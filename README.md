@@ -60,4 +60,5 @@ Mapping player position to 2D pitch image
   - Goalkeeper
 
 *  Mapping player position to 2D pitch image
+    - In this case I will try use information from [Perspective transformation Module](https://github.com/FootballAnalysis/footballanalysis/tree/main/Perspective%20Transformation)
 
