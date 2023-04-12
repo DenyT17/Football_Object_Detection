@@ -45,9 +45,21 @@ In this part I added funcionality like:
 
 I also created functions, thanks to which I can to use this functionality on single image or video.
 
+## Mapping player position to 2D pitch image
+
+In this case I use project, which you can find [here](https://github.com/FootballAnalysis/footballanalysis). Especially "Bird's eye view" part. But I want to use my own pre trained model, and anotate detected player in my own way. So I will change part of code. 
+The part of the code responsible for it is placed in file:  Perspective_Transformation.ipynb.
+
+To be able to use the code, download the [files](https://docs.google.com/uc?export=download&id=1EaBmCzl4xnuebfoQnxU1xQgNmBy7mWi2) and place them in the location **/footballanalysis/Bird's eye view/weights**
+
+## Current result: 
+
+![finall_output (3) (1)](https://user-images.githubusercontent.com/122997699/231509870-8532590b-b7a9-4923-8596-b211cd1b912a.gif)
+
+
 ## Currently working on 📝
 
-Mapping player position to 2D pitch image
+Tracking player position to 2D pitch image
 
 
 ## Next goals 🏆⌛
@@ -59,6 +71,5 @@ Mapping player position to 2D pitch image
   - Ball
   - Goalkeeper
 
-*  Mapping player position to 2D pitch image
-    - In this case I will try use information from [Perspective transformation Module](https://github.com/FootballAnalysis/footballanalysis/tree/main/Perspective%20Transformation)
+*  Tracking player position to 2D pitch image
 
