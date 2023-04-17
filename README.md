@@ -54,7 +54,7 @@ To be able to use the code, download the [files](https://docs.google.com/uc?expo
 
 ## Tracking player
 
-To tracking football players I use ByteTRACK.It is worth mentioning, that ByteTRACK doesn't use any neural network, becouse the model comparing bounding box position on individual frames.
+To tracking football players I use ByteTRACK. It is worth mentioning, that ByteTRACK doesn't use any neural network, because the model comparing bounding box position on individual frames.
 
 ## Current result: 
 
