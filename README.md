@@ -52,14 +52,19 @@ The part of the code responsible for it is placed in file:  Perspective_Transfor
 
 To be able to use the code, download the [files](https://docs.google.com/uc?export=download&id=1EaBmCzl4xnuebfoQnxU1xQgNmBy7mWi2) and place them in the location **/footballanalysis/Bird's eye view/weights**
 
+## Tracking player
+
+To tracking football players I use ByteTRACK.It is worth mentioning, that ByteTRACK doesn't use any neural network, becouse the model comparing bounding box position on individual frames.
+
 ## Current result: 
 
-![finall_output (3) (1)](https://user-images.githubusercontent.com/122997699/231509870-8532590b-b7a9-4923-8596-b211cd1b912a.gif)
+
+![Video_output (1)](https://user-images.githubusercontent.com/122997699/232571582-478c6cb4-1503-44b6-b4b0-8cac5ed95b3c.gif)
 
 
 ## Currently working on 📝
 
-Tracking player position to 2D pitch image
+Training better model with two teams. 
 
 
 ## Next goals 🏆⌛
@@ -71,5 +76,5 @@ Tracking player position to 2D pitch image
   - Ball
   - Goalkeeper
 
-*  Tracking player position to 2D pitch image
+
 
